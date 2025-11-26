@@ -1,0 +1,5 @@
+{
+  "name": "Competitor Price Tracker",
+  "description": "A dashboard to track and compare IT product prices from competitor websites using Gemini AI.",
+  "requestFramePermissions": []
+}
